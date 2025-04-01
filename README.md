@@ -9,5 +9,18 @@ This repository contains the code for performing Audio Deepfake classification u
 > The application is deployed on huggingface spaces
 
 ```
-1+1
+https://huggingface.co/spaces/aneeshm44/Momenta
+```
+
+
+> The dataset and code are also available publicly on kaggle
+
+Code:
+```
+https://www.kaggle.com/code/aneeshmukkamala/assignment
+```
+
+Dataset:
+```
+https://www.kaggle.com/datasets/aneeshmukkamala/audiodetect
 ```
