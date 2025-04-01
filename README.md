@@ -6,8 +6,10 @@ This repository contains the code for performing Audio Deepfake classification u
 > The jupyter notebook has all functions from data processing, training to inference.
 
 
-> The application is deployed on huggingface spaces
+> The application is deployed publicly huggingface spaces
 
+
+Hugging Spaces:
 ```
 https://huggingface.co/spaces/aneeshm44/Momenta
 ```
